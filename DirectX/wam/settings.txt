@@ -1,0 +1,15 @@
+* random time pop up interval
+* eliminate infinite loop potential
+* set view window 
+* capture mouse point & collision test
+
+
+view settings ( 3D view)
+mPhi = 0.83303803
+mTheta = 7.8190727
+mRadius 12.169989
+
+view settings (2D view)
+mPhi = 0.1
+mTheta = 7.8575
+mRadius 17
